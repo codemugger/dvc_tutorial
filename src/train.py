@@ -61,4 +61,5 @@ def train_evaluate_save(
 
 
 # Set file paths and run training/evaluation/saving
-train_evaluate_save()
+train_evaluate_save()print('\nThis is a new message')
+print('\nThis is a new message')
